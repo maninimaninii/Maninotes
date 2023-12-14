@@ -1,0 +1,12 @@
+Informatique : Inconnu
+Mathématiques : Inconnu
+Droit : Inconnu
+Philosophie : Inconnu
+Architecture : Inconnu
+Physique : Inconnu
+Bus : Inconnu
+Java : Inconnu
+C : Inconnu
+BDD : Inconnu
+
+

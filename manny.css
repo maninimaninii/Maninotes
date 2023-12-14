@@ -1,0 +1,54 @@
+/* Style du label de bienvenue */
+.welcome-label {
+    background-color: #f8ad9d;
+    font-size: 18px;
+    font-weight: bold;  /* Texte en gras */
+    color: #333;
+}
+
+/* Style des boutons Enseignant et Etudiant */
+button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: white; 
+    color: black;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049; /* Vert plus foncé */
+}
+
+GtkWindow {
+    background-color: red;
+}
+/* Style du tableau */
+#treeview {
+    background-color: #f8ad9d;
+    border: 1px solid white;
+    font-weight: bold;
+    color: black;
+}
+
+/* Style des champs de saisie */
+#entrytreeview {
+    background-color: #f8ad9d;
+    border: 1px solid white;
+    font-weight: bold;
+    color: black;
+}
+
+/* Style du bouton Quitter */
+#quitButton {
+    background-color: #ff6666;
+    font-weight: bold;
+    color: black;
+    padding: 5px 10px;
+}
+#labelReleve {
+    font-size: 20px;  /* Taille de police plus grande */
+    font-weight: bold;  /* Texte en gras */
+    color: #333;  /* Couleur du texte */
+    padding: 10px 0;  /* Espacement en haut et en bas */
+}
